@@ -24,7 +24,8 @@
 - 📂 [코딩 테스트 GitHub Repository](https://github.com/your-github-handle/coding-test-repo)  
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-handle&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=dracula)
 
 ## 📫 Connect with Me
 - 🌐 Blog: [your-blog-url](https://your-blog-url.com)
