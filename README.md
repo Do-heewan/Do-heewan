@@ -1,7 +1,10 @@
-# 👋 Hi there! I'm Nick
-### 🚀 AI 연구 및 개발을 진행하는 딥러닝 & 소프트웨어 엔지니어 및 소프트웨어 개발자 ***Nick*** 입니다.
-
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=FFFFFF)
+
+# 😎About Me
+
+### 🚀 AI 연구 및 개발을 진행하는 딥러닝 & 소프트웨어 엔지니어 및 소프트웨어 개발자 ***Noh*** 입니다.
+
+
 
 ## 🛠 Skills & Interests
 - **AI & Deep Learning**: PyTorch, TensorFlow, Reinforcement Learning, Computer Vision
