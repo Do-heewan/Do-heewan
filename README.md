@@ -1,5 +1,7 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Dev_Noh
 🚀 AI 연구 및 개발을 진행하는 **딥러닝 & 소프트웨어 엔지니어**입니다.
+
+![header](https://capsule-render.vercel.app/api?type=venom&height=100&section=header&text=Just%20Do%20Heewan!💪&animation=fadeIn&fontColor=FFFFFF&stroke=a82dF1&strokeWidth=2)
 
 ## 🛠 Skills & Interests
 - **AI & Deep Learning**: PyTorch, TensorFlow, Reinforcement Learning, Computer Vision
@@ -7,12 +9,6 @@
 - **Web Development**: JSP, Spring Boot, React
 - **Game Development**: Unity, C#
 - **Database**: MySQL, PostgreSQL
-
-## 📌 Ongoing Projects
-- 🏎 **Traffic Accident Analysis AI**  
-  - AI를 활용한 교통사고 과실 비율 분석 시스템 개발  
-  - Object Detection → Classification → Fault Ratio Prediction  
-  - **Tech**: YOLO, CNN, JSON Dataset, PyTorch  
 
 - 🎮 **2D Reinforcement Learning Game**  
   - Unity 환경에서 강화 학습을 적용한 경쟁 게임  
@@ -23,11 +19,17 @@
 - ✍ **99클럽 코딩 테스트 스터디 참여**  
 - 📂 [코딩 테스트 GitHub Repository](https://github.com/your-github-handle/coding-test-repo)  
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats 
+<div align="center">
+
+<!--github stats><-->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=tokyonight)
+
+<!--most used language><-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=dracula)
 
+</div>
+
 ## 📫 Connect with Me
-- 🌐 Blog: [your-blog-url](https://your-blog-url.com)
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/yourprofile)
-- 📧 Email: your-email@example.com
+- 🌐 Blog: [Code-Heewan](https://do-heewan.tistory.com)
+- 📧 Email: nhw3152@gmail.com
