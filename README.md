@@ -1,21 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=FFFFFF)
 
-# 😎About Me
+# 🛠 Tech Stack & Skills
 
-### 🚀 AI 연구 및 개발을 진행하는 딥러닝 & 소프트웨어 엔지니어 및 소프트웨어 개발자 ***Noh*** 입니다.
+### Language
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+### Server
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
+### Data Base
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
 
-## 🛠 Skills & Interests
-- **AI & Deep Learning**: PyTorch, TensorFlow, Reinforcement Learning, Computer Vision
-- **Programming**: Python, Java, JavaScript, SQL
-- **Web Development**: JSP, Spring Boot, React
-- **Game Development**: Unity, C#
-- **Database**: MySQL, PostgreSQL
+### AI & Deep Learning
+<img src="https://img.shields.io/badge/torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
-- 🎮 **2D Reinforcement Learning Game**  
-  - Unity 환경에서 강화 학습을 적용한 경쟁 게임  
-  - **Tech**: Unity ML-Agents, PPO, C#  
+### Front-End
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+
 
 ## 📚 Coding Study & Algorithm
 - 🔥 **Baekjoon & Programmers 문제 풀이**  
