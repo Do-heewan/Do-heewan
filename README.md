@@ -1,13 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=EEEEEE&stroke=953EA4&strokeWidth=2)
 
-## 📊 GitHub Stats 
+# 📊 GitHub Stats 
+
+<!--
 <div align="center">
+</div>
+>
 
 <!--github stats><-->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)
 
-</div>
+
 
 # 🛠 Tech Stack & Skills
 
@@ -25,8 +30,8 @@
 ![Tomcat](https://img.shields.io/badge/tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
 ![flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
 <!--
@@ -37,7 +42,7 @@
 
 ### tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
 
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
@@ -65,4 +70,4 @@
 ## 📫 Connect with Me
 - [<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/do-heewan)
 - [<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>](https://do-heewan.tistory.com)
-- [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](nhw3152@gmail.com)
+- [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:nhw3152@gmail.com)
