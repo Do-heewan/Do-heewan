@@ -8,10 +8,13 @@
 >
 
 <!--github stats><-->
+<div align="center">
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)
 
+</div>
 
 
 # 🛠 Tech Stack & Skills
