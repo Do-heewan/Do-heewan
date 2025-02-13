@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=222222&stroke=953EA4&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=EEEEEE&stroke=953EA4&strokeWidth=2)
 
 # 🛠 Tech Stack & Skills
 
