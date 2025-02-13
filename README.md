@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=222222&stroke=953EA4&strokeWidth=2)
 
 # 🛠 Tech Stack & Skills
 
@@ -30,10 +30,10 @@
 <div align="center">
 
 <!--github stats><-->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
 
 <!--most used language><-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=synthwave)
 
 <!--Solved.ac><-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)
