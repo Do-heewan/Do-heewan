@@ -1,10 +1,13 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=EEEEEE&stroke=953EA4&strokeWidth=2)
+-->
 
-## About Me
-I'm a **full-stack developer** and an **AI & data science researcher**.  
-I build web applications, develop AI models, and analyze data to solve real-world problems.
+---
+### 🖐️Welcome in my Git hub! I'm Noh.
+- I'm a **full-stack developer** and an **AI & data science researcher**.  
+- I build web applications, research AI models, and analyze data to solve real-world problems.
 
-## What I Do
+### What I Do
 - **Full-Stack Development** → React, Node.js, Django, Spring Boot  
 - **AI & Data Science** → Deep Learning, Reinforcement Learning, Data Analysis  
 - **Problem Solving** → Algorithm challenges on Baekjoon & Programmers  
