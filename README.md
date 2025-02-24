@@ -1,6 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=EEEEEE&stroke=953EA4&strokeWidth=2)
 
-# 📊 BOJ rating
+## About Me
+I'm a **full-stack developer** and an **AI & data science researcher**.  
+I build web applications, develop AI models, and analyze data to solve real-world problems.
+
+## What I Do
+- **Full-Stack Development** → React, Node.js, Django, Spring Boot  
+- **AI & Data Science** → Deep Learning, Reinforcement Learning, Data Analysis  
+- **Problem Solving** → Algorithm challenges on Baekjoon & Programmers  
+
+---
+### 📊 BOJ rating
 
 <!--
 <div align="center">
@@ -20,8 +30,7 @@
 
 ---
 
-<div align="center">
-### 🛠 Full Stacks
+### 🛠 Stack
 
 - **Programing Languages**
 
@@ -48,8 +57,6 @@
     ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
 
 <!--
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
