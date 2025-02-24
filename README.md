@@ -30,8 +30,10 @@
 
 ### Server & DB
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Tomcat](https://img.shields.io/badge/tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white)
-![flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white)
+![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -50,6 +52,7 @@
 
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=Obsidian&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 <!--
