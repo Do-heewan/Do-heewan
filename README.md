@@ -1,6 +1,6 @@
-<!--
+
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=EEEEEE&stroke=953EA4&strokeWidth=2)
--->
+
 
 ## 🖐️Dev_Tron
 - AI를 활용한 **데이터 분석**과 **풀스택 개발**을 공부중인 **Tron**입니다.
@@ -10,13 +10,14 @@
 
 ---
 
-### 🛠 Tech Stack
+### 💪 Tech Stack
 
 - **Programing Languages**
 
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=jameson&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 
 - **AI & Data Science**
 
@@ -25,7 +26,12 @@
     ![torch](https://img.shields.io/badge/torch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
     ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-- **Frameworks & Container**
+    ![numpy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+    ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+    ![matplot.lib](https://img.shields.io/badge/matplotlib-000000?style=flat-square&logo=roadmapdotsh&logoColor=white)
+    ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+- **Web Frameworks & Container**
 
     ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
     ![node.js](https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
@@ -54,9 +60,9 @@
 
 ---
 
-### Tools
+### 🛠 Tools
 
-- **Cowork & Studying**
+- **Cowork & Document**
 
     ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
     ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
@@ -88,15 +94,9 @@
 ---
 ### 📊 BOJ rating
 
-<!--
-<div align="center">
-</div>
->
-
-<!--github stats><-->
 <div align="center">
 
-<!--
+<!-- 깃허브 스탯
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
 -->
 
