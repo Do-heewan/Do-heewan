@@ -3,7 +3,7 @@
 -->
 
 ---
-### 🖐️Welcome in my Git hub! I'm Noh.
+# 🖐️Code-Heewan
 - I'm a **full-stack developer** and an **AI & data science researcher**.  
 - I build web applications, research AI models, and analyze data to solve real-world problems.
 
