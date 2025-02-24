@@ -20,6 +20,7 @@
 
 ---
 
+<div align="center">
 ### 🛠 Full Stacks
 
 - **Programing Languages**
@@ -47,6 +48,8 @@
     ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
 
 <!--
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
