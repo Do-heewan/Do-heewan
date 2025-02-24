@@ -2,34 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=EEEEEE&stroke=953EA4&strokeWidth=2)
 -->
 
----
-# 🖐️Code-Heewan
-- I'm a **full-stack developer** and an **AI & data science researcher**.  
-- I build web applications, research AI models, and analyze data to solve real-world problems.
-
-### What I Do
-- **Full-Stack Development** → React, Node.js, Django, Spring Boot  
-- **AI & Data Science** → Deep Learning, Reinforcement Learning, Data Analysis  
-- **Problem Solving** → Algorithm challenges on Baekjoon & Programmers  
-
----
-### 📊 BOJ rating
-
-<!--
-<div align="center">
-</div>
->
-
-<!--github stats><-->
-<div align="center">
-
-<!--
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
--->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)
-
-</div>
+# 🖐️Dev_Tron
+- AI를 활용한 **데이터 분석**과 **풀스택 개발**을 공부중인 **Tron**입니다.
+- 클라우드 엔지니어링 및 SW테스팅에도 관심이 있어요!
+- 운영중인 [블로그](https://do-heewan.tistory.com)에 놀러오세요! 공부한 것들을 꾸준히 TIL 작성하고 있어요.
+- 문의 : [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:nhw3152@gmail.com)
 
 ---
 
@@ -96,7 +73,29 @@
 <img src="https://img.shields.io/badge/Unity-181717?style=flat-square&logo=Unity&logoColor=white"/>
 -->
 
+---
+### 📊 BOJ rating
+
+<!--
+<div align="center">
+</div>
+>
+
+<!--github stats><-->
+<div align="center">
+
+<!--
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
+-->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)
+
+</div>
+
+
+<!--
 ## 📫 Connect with Me
 - [<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>](https://github.com/do-heewan)
 - [<img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>](https://do-heewan.tistory.com)
 - [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:nhw3152@gmail.com)
+-->
