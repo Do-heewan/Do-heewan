@@ -40,6 +40,8 @@
 
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+
+<!--
 - **Data Base**
 
     ![Mysql](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -51,6 +53,8 @@
     ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
     ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonEC2&logoColor=white)
     ![IAM](https://img.shields.io/badge/Amazon%20IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white)
+-->
+
 
 <!--
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
