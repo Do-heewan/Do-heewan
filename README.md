@@ -106,8 +106,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=nord&hide_border=true" /></a>
+<a href="https://github.com/do-heewan">[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=nord&hide_border=true" /></a>
 
 </div>
 
