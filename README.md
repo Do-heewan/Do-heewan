@@ -100,8 +100,6 @@
 ---
 ### 📊 BOJ rating
 
-<div align="center">
-
 <!-- 깃허브 스탯
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
 -->
@@ -111,11 +109,10 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=tron_god" alt="Solved.ac Profile" />
   </a>
   <a href="https://github.com/do-heewan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=nord&hide_progress=true" alt="Top Languages" height="180px" />
   </a>
 </div>
 
-</div>
 
 
 <!--
