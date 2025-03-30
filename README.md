@@ -17,7 +17,7 @@
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=jameson&logoColor=white)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-    <!-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) -->
+    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
 - **AI & Data Science**
 
@@ -34,10 +34,12 @@
 - **Web Frameworks & Container**
 
     ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
+    ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
     ![node.js](https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
     ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
     ![next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
+    ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+    
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
