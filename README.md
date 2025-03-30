@@ -34,12 +34,12 @@
 - **Web Frameworks & Container**
 
     ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
-    ![Spring](https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+    ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
     ![node.js](https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
     ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-    ![next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-    ![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-    
+    ![next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
@@ -107,6 +107,7 @@
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tron_god)](https://solved.ac/profile/tron_god)
+<a href="https://github.com/do-heewan"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=do-heewan&layout=compact&theme=nord&hide_border=true" /></a>
 
 </div>
 
