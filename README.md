@@ -98,7 +98,7 @@
 -->
 
 ---
-### 📊 BOJ rating
+### 📊 Stats
 
 <!-- 깃허브 스탯
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=do-heewan&show_icons=true&theme=synthwave)
