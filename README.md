@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=230&section=header&text=Code-Heewan&animation=fadeIn&fontColor=EEEEEE&stroke=953EA4&strokeWidth=2)
 -->
 
-## 🖐️Dev_Tron
-- AI를 활용한 **데이터 분석**과 **풀스택 개발**을 공부중인 **Tron**입니다.
+## 🖐️Dev_Noh
+- AI를 활용한 **데이터 분석**과 **풀스택 개발**을 공부중인 **Noh**입니다.
 - 클라우드 엔지니어링 및 SW테스팅에도 관심이 있어요!
 - 운영중인 [블로그](https://do-heewan.tistory.com)에 놀러오세요! 공부한 것들을 꾸준히 TIL 작성하고 있어요.
 - 문의 : [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:nhw3152@gmail.com)
