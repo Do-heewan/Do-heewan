@@ -5,6 +5,7 @@
 ## 🖐️Dev_Noh
 - I graduated from the **Department of IT Convergence**, University of Ulsan.
 - I'm a **Full-Stack Developer**.
+- I'm preparing to build and launch my own **startup**.
 - Through **AI** development and research, I propose effective ways to AI web services.
 - Visit my **[blog](https://do-heewan.tistory.com)** to explore my development journey, where I document projects, technical insights.
 - Mail : [<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:nhw3152@gmail.com)
