@@ -16,7 +16,7 @@
 
 **2026**
 
-- SCOUT 프렌즈데이 2026 NEXT UNICORN’S DAY 최우수상 | 26.01
+- SCOUT 프렌즈데이 2026 NEXT UNICORN’S DAY **최우수상** | 26.01
 
 **2025**
 
