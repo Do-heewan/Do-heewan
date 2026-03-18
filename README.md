@@ -53,7 +53,7 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=tron_god" alt="Solved.ac Profile" />
   </a>
   <a href="https://solved.ac/profile/do_heewan">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=tron_god" alt="Solved.ac Profile" />
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=do_heewan" alt="Solved.ac Profile" />
   </a>
   <!-- <a href="https://github.com/do-heewan">
     <img src="http://mazandi.herokuapp.com/api?handle=tron_god&theme=dark"/>
